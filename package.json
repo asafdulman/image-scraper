@@ -1,0 +1,20 @@
+{
+  "name": "intango-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "commander": "^8.2.0",
+    "image-size": "^1.0.0",
+    "node-fetch": "^2.6.5",
+    "open": "^8.3.0",
+    "ora": "^4.0.3"
+  }
+}
