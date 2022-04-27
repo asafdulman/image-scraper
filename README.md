@@ -1,5 +1,5 @@
 ## Description
-This repo crwals a web page, download all the images in it, and create a html file to present the images, and their original details (url, size and format)
+This repo crawls a web page, download all the images in it, and create a html file to present the images, and their original details (url, size and format)
 
   
 ===========
